@@ -21,6 +21,7 @@ import org.janusgraph.diskstorage.keycolumnvalue.keyvalue.KVQuery;
 
 /**
  * @author Florian Grieskamp
+ * 增加一些注释
  */
 public class FoundationDBRangeQuery {
 
